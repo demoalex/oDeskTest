@@ -29,9 +29,10 @@ test:
   password: rll72baW
 
 production:
+  host: ec2-54-221-243-6.compute-1.amazonaws.com
   adapter: postgresql
   encoding: unicode
-  database: odesk_production
+  database: dcqj10g7v5jep3
   pool: 5
-  username: demo.alex
-  password: 123456
+  username: mxqwqmbrmnljne
+  password: _Dvl2-BZ9RexacaKG0UZ1YfkQu
